@@ -27,7 +27,7 @@ Saya menikmati bekerja di sisi frontend maupun backend — dari membangun antarm
 | 💬 Tanya saya tentang | **Laravel, React, Next.js, PHP** |
 | 📍 Lokasi | **Malang, Jawa Timur, Indonesia** |
 | 🎯 Fokus saat ini | **Membangun  pondasi Frontend React/Typescript yang kuat** |
-| ⚡ Fun fact | Suka Bernyanyi dan Bisa Bernyanyi xD |
+| ⚡ Fun fact | **Suka Bernyanyi dan Bisa Bernyanyi xD** |
 | 
 
 ---
