@@ -53,6 +53,7 @@ I enjoy working on both the frontend and backend — from crafting beautiful int
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma]([https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white))
 
 **Tools**
 
