@@ -63,7 +63,7 @@ I enjoy working on both the frontend and backend — from crafting beautiful int
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/Tested_on-hoppscotch-202124?logo=hoppscotch))
+![Hoppscotch](https://img.shields.io/badge/Tested_on-hoppscotch-202124?logo=hoppscotch)
 
 
 ---
