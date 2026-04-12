@@ -23,10 +23,10 @@ I enjoy working on both the frontend and backend — from crafting beautiful int
 
 | 🔭 Currently working on | Personal portfolio project |
 |---|---|
-| 🌱 Currently learning | **TypeScript, Docker, React, Low-level Programming** |
-| 💬 Ask me about | **Laravel, React, Next.js, PHP** |
+| 🌱 Currently learning | **TypeScript, Express.js, React.js, Low-level Programming, NodeJs Runtime** |
+| 💬 Ask me about | **Laravel, PHP, JavaScript** |
 | 📍 Location | **Malang, East Java, Indonesia** |
-| 🎯 Current focus | **Building a strong Frontend foundation with React/TypeScript** |
+| 🎯 Current focus | **Building a strong Frontend foundation with React/TypeScript & strong Backend Architect** |
 | ⚡ Fun fact | **Love singing and actually pretty good at it xD** |
 | 
 
@@ -49,6 +49,8 @@ I enjoy working on both the frontend and backend — from crafting beautiful int
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js]([https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white))
+
 
 **Database**
 
@@ -61,6 +63,8 @@ I enjoy working on both the frontend and backend — from crafting beautiful int
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Hoppscotch]([https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white](https://img.shields.io/badge/Tested_on-hoppscotch-202124?logo=hoppscotch))
+
 
 ---
 
